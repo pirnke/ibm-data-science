@@ -1,2 +1,3 @@
-# ibm-data-science
-Exercise files
+# IBM Data Science
+
+Course Exercise Files
